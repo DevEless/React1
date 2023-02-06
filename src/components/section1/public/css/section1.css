@@ -1,0 +1,94 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+}
+img{
+    padding: 15px;
+    height: 250px;
+    border-radius: 7%;
+    position: relative;
+}
+.quoicoubeh{
+    color: hsl(178, 100%, 50%) !important;
+}
+.quoicoubeh2{
+    color: hsl(178, 100%, 50%) !important;
+    margin-left: 5px;
+}
+.fufu{
+    opacity: 0%;
+}
+.hellreact{
+    position: relative;
+}
+.fuckureact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 4;
+    height: 88%;
+    width: 83.2%;
+    position: absolute;
+    top: 14px;
+    left: 24px;
+
+    background-color: rgba(128, 160, 255, 0.364) !important;
+
+}
+.flex{
+    margin-left: 7%;
+
+}
+.border{
+    border-bottom: 1px solid;
+    width: 90%;
+    margin-left: 5%;
+}
+h4{
+    color: white;
+    display: flex;
+    margin-left: 8%;
+}
+p{
+    color: gray;
+    display: flex;
+}
+.imgey{
+    height: 40px;
+}
+.testi {
+    display: flex;
+    height: 55px;
+    align-items: center;
+}
+.whitos{
+    color: white;
+    margin-left : 5px;
+}
+.col.deux{
+    
+    background-color: rgb(0, 0, 42);
+    height: 280px;
+    width: 300px;
+    border-radius: 6px 6px 0px 0px;
+    position: relative;
+}
+
+.col.un{
+    background-color: rgb(0, 0, 42);
+    height: 240px;
+    width: 300px;
+    border-radius: 0px 0px 6px 6px;
+    position: relative;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #0d1a2d;
+}
+
